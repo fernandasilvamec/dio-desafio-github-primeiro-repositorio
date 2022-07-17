@@ -1,0 +1,13 @@
+## Acessar diretório
+cd /c/Users/nanda/OneDrive/Documentos/Git/DIO/dio-desafio-github-primeiro-repositorio
+
+##  Adicionar todos os arquivos como controle de versão local
+git add . 
+
+## Para enviar um commit local para a nuvem do github ( o -m é para incluir uma mensagem )
+git commit -m "adicionar mensagem" 
+
+## Para publicar no repositório 
+git push origin main 
+
+ 
